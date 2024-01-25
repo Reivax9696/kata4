@@ -1,0 +1,84 @@
+{
+    "alumnes": [
+      {
+        "nom": "Carlos",
+        "cognom": "Lopez"
+      },
+      {
+        "nom": "Ana",
+        "cognom": "Martinez"
+      },
+      {
+        "nom": "Jose",
+        "cognom": "Hernandez"
+      },
+      {
+        "nom": "Isabel",
+        "cognom": "Garcia"
+      },
+      {
+        "nom": "David",
+        "cognom": "Fernandez"
+      },
+      {
+        "nom": "Sofia",
+        "cognom": "Gonzalez"
+      },
+      {
+        "nom": "Luis",
+        "cognom": "Perez"
+      },
+      {
+        "nom": "Elena",
+        "cognom": "Rodriguez"
+      },
+      {
+        "nom": "Fernando",
+        "cognom": "Navarro"
+      },
+      {
+        "nom": "Laura",
+        "cognom": "Ruiz"
+      },
+      {
+        "nom": "Miguel",
+        "cognom": "Diaz"
+      },
+      {
+        "nom": "Patricia",
+        "cognom": "Moreno"
+      },
+      {
+        "nom": "Raul",
+        "cognom": "Alonso"
+      },
+      {
+        "nom": "Sara",
+        "cognom": "Romero"
+      },
+      {
+        "nom": "Diego",
+        "cognom": "Torres"
+      },
+      {
+        "nom": "Carmen",
+        "cognom": "Gil"
+      },
+      {
+        "nom": "Javier",
+        "cognom": "Saez"
+      },
+      {
+        "nom": "Nuria",
+        "cognom": "Vazquez"
+      },
+      {
+        "nom": "Xavier",
+        "cognom": "Bigorra"
+      },
+      {
+        "nom": "Ana",
+        "cognom":"Pellejero"
+      }
+    ]
+  }
