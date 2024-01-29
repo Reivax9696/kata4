@@ -3,12 +3,23 @@
 <html lang="en">
 <head>
     <style>
+        body {
+            margin: 0;
+            text-align: center;
+        }
+        .container {
+            width: fit-content; 
+            margin: 0; 
+        }
+
         .box {
             border: 1px solid #000;
             margin: 10px 0;
             padding: 10px;
             background-color: #f9f9f9;
             border-radius: 5px;
+            display: inline-block; 
+            text-align: left; 
         }
     </style>
 </head>
@@ -30,6 +41,8 @@
         }, $llistaEstudiants['alumnes']);
 
         $activitats = ["Presentar Masterclass", "Shortcut de la setmana"];
+
+        shuffle($estudiants);
 
         foreach ($activitats as $activitat) {
             $randomEstudiant = array_shift($estudiants); 
